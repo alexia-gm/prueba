@@ -51,3 +51,6 @@
     - Seguimiento de tareas en GitHub
     - Revisión de código en GitHub
     - Automatización con CI/CD con GitHub Actions
+  
+9. Práctica de videos
+    - 
